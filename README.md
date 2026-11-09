@@ -37,7 +37,7 @@ In this problem, we get two classes, which are part of _OOP_. They are: _Employe
 In this problem, we have to return a _Promise<string>_. So, since this function returns a promise, we have to use an _async_ function. Due to some strict requirements, we have to use `new Promise` with `setTimeout` and `reject` using an `Error instance (new Error(...))`. In this we grant or deny string if depends on age. 
 
 
-I write two blogs understanding about TypeScript. I linked them bellow:
+#### I write two blogs understanding about TypeScript. I linked them bellow:
 
 - [Type vs Interface](./type-vs-interface.md)
 - [TypeScript Compilation tsconfig](./typescript-compilation-tsconfig.md)
